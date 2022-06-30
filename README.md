@@ -20,3 +20,7 @@ npm install @material-ui/core @material-ui/icons @material-ui/lab @react-google-
 - Go to APIs and services ( on left column) -> Enabled APIs and services
 
 - Go to credentials (on left column) -> create credentials ( create API key)
+
+## Fetch data
+
+- To keep it clean, create a folder named "api" to store api data
