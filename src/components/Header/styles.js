@@ -1,6 +1,5 @@
 import { alpha, makeStyles } from "@material-ui/core/styles";
 
-//theme.breakpoints.up("sm") :sm and up breakpoint
 export default makeStyles((theme) => ({
   title: {
     display: "none",
@@ -18,8 +17,7 @@ export default makeStyles((theme) => ({
     width: "100%",
     [theme.breakpoints.up("sm")]: {
       marginLeft: theme.spacing(3),
-        width: "auto",
-
+      width: "auto",
     },
   },
   searchIcon: {
